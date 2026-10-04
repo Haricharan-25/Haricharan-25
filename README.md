@@ -2,7 +2,7 @@
 # 💫 About Me:
 Im Currently Pursuing My Bachelor's Of Technology <br>Computer Science and Engineering <br>
 
-Portfolio : kakarlaharicharan.vercel.app
+<a href="kakarlaharicharan.vercel.app">Portfolio</a>
 
 
 ## 🌐 Socials:
