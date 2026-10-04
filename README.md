@@ -2,6 +2,8 @@
 # 💫 About Me:
 Im Currently Pursuing My Bachelor's Of Technology <br>Computer Science and Engineering <br>
 
+Portfolio : kakarlaharicharan.vercel.app
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanhari072@gmail.com) 
